@@ -1,0 +1,15 @@
+{
+  "name": "fastify-test-app",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.28.1"
+  }
+}
